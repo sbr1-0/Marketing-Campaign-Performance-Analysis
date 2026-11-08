@@ -12,7 +12,8 @@ A client needed to compare the performance of two marketing campaigns distribute
 The analysis therefore focuses on performance metrics such as:
 
 - **Total Customer Interactions:** measures the total number of customer interactions associated with each campaign and marketing channel. This metric provides context on campaign reach and helps determine whether higher sales are driven by stronger performance or simply by a larger volume of customer interactions.
-**Total Conversions:** represents the number of customer interactions that resulted in a successful conversion. This metric helps identify which campaigns and channels are generating actual customer outcomes rather than engagement alone.
+  
+-**Total Conversions:** represents the number of customer interactions that resulted in a successful conversion. This metric helps identify which campaigns and channels are generating actual customer outcomes rather than engagement alone.
 
 - **Conversion Rate:** Measures the percentage of customer interactions that resulted in a conversion. It is calculated by dividing total conversions by total interactions. This metric is particularly important because it allows campaigns and channels with different interaction volumes to be compared based on efficiency.
 
