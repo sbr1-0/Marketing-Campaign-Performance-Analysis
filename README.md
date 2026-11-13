@@ -48,6 +48,15 @@ across three marketing channels:
 - Email
 - Instagram
 - Web Banner
+
+### Insights 
+- Revenue per Interaction: The analysis generated an average of $29.32 in revenue per customer interaction. This metric helps evaluate how effectively customer interactions were translated into sales value.
+- Campaign Performance: Overall, Campaign B outperformed Campaign A, generating stronger sales results across the analyzed customer interactions.
+- Campaign + Channel Performance: The combination of Campaign B + Email delivered the strongest performance among the campaign-channel combinations analyzed. This suggests that the effectiveness of Campaign B was particularly strong when delivered through Email.
+
+### Recommendations
+- NewCo should prioritize Campaign B + Email as the leading candidate for increasing new-customer sales. Rather than immediately reallocating the entire marketing budget, the company should validate this strategy through additional A/B testing and scale investment if the performance advantage remains consistent.
+- Future analysis should incorporate marketing spend, customer acquisition cost (CAC), cost per acquisition (CPA), and return on ad spend (ROAS).
   
 ### Tools & Technologies
 - Power BI: Dashboard development and data visualization. 
@@ -56,3 +65,5 @@ across three marketing channels:
 - Excel: source dataset.
 - Data Visualization: interactive business reporting.
 - Marketing Analytics: campaign and channel performance analysis.
+
+
